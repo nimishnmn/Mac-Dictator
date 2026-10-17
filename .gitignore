@@ -1,0 +1,28 @@
+# Xcode & Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Built binaries & bundles
+Mac Dictator.app/
+*.o
+*.dylib
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & IDE artifacts
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
